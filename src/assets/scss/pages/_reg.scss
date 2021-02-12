@@ -1,0 +1,61 @@
+.reg {
+    &-logo {
+        text-align: center;
+        margin: 88px 0;
+    }
+    &-title {
+        text-align: center;
+        font-size: 27px;
+    }
+    &-subtitle {
+        text-align: center;
+        font-size: 19px;
+        margin-top: 5px;
+        margin-bottom: 40px;
+    }
+    &-inputs {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        &__input {
+            width: 315px;
+            padding: 17px 0 17px 50px;
+            border-radius: 20px;
+            background-color: #fff;
+            border: none;
+            outline: none;
+        }
+        &__btn {
+            font-size: 20px;
+            background-color: #9F111B;
+            width: 315px;
+            padding: 17px 0 17px 15px;
+            border-radius: 20px;
+            text-decoration: none;
+            color: #fff;
+            text-align: center;
+        }
+        &__item {
+            position: relative;
+            margin-bottom: 15px;
+        }
+        &__img {
+            position: absolute;
+            top: 30%;
+            left: 5%;
+            &--email {
+                top: 45%;
+            }
+        }
+    
+    }
+    &-rule {
+       text-align: center;
+       margin-top: 400px;
+       margin-bottom: 50px;
+       &__link {
+           text-decoration: none;
+           color: #9F111B;
+       }
+    }
+}

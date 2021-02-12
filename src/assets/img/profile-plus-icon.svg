@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="39" viewBox="0 0 40 39">
+  <g id="profile-plus-icon" transform="translate(-20 -454)">
+    <g id="Add_button" data-name="Add button" transform="translate(20 430)">
+      <rect id="Прямоугольник_61" data-name="Прямоугольник 61" width="40" height="39" rx="11" transform="translate(0 24)" fill="#9f111b"/>
+      <path id="more_10_" data-name="more (10)" d="M14.122,6.689H8.176V.743a.743.743,0,0,0-1.487,0V6.689H.743a.743.743,0,0,0,0,1.487H6.689v5.946a.743.743,0,1,0,1.487,0V8.176h5.946a.743.743,0,1,0,0-1.487Zm0,0" transform="translate(12.834 36.079)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
