@@ -13,16 +13,23 @@
     }
     &-title {
         color: #fff;
-        font-size: 55px;
+        font-size: 40px;
         margin-top: 130px;
+        @media(max-width: 768px) {
+            font-size: 55px;
+        }
     }
     &-link {
         display: flex;
         flex-direction: column;
         align-items: center;
         position: absolute;
-        left: 30%;
-        bottom: 7%;
+        left: 39%;
+        bottom: 2%;
+        @media(max-width: 768px) {
+            left: 30%;
+            bottom: 7%;
+        }
     }
     &-btn {
         background-color: #FF2020;

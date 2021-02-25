@@ -17,6 +17,7 @@ body {
 .main-container {
     width: 768px;
     margin: 0 auto;
+    overflow-x: hidden;
 }
 
 
@@ -91,5 +92,9 @@ body {
       display: flex;
       align-items: center;
       justify-content: space-evenly;
+  }
+
+  .swiper-container4 {
+      margin-top: 25px;
   }
   

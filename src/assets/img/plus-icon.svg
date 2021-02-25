@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="154" viewBox="0 0 154 154">
+  <defs>
+    <filter id="Rectangle_580" x="0" y="0" width="154" height="154" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#ffe195" flood-opacity="0.369"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="plus-icon" transform="translate(-238 -656)">
+    <g transform="matrix(1, 0, 0, 1, 238, 656)" filter="url(#Rectangle_580)">
+      <g id="Rectangle_580-2" data-name="Rectangle 580" transform="translate(60 56)" fill="#9f111b" stroke="#fff" stroke-width="1">
+        <rect width="34" height="34" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="33" height="33" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="ant-design:plus-outlined" transform="translate(306.5 720.5)">
+      <path id="Vector" d="M.133,0h1a.117.117,0,0,1,.133.133V11.82a.117.117,0,0,1-.133.133h-1A.117.117,0,0,1,0,11.82V.133A.117.117,0,0,1,.133,0Z" transform="translate(7.869 2.523)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M.133,0H11.289a.117.117,0,0,1,.133.133v1a.117.117,0,0,1-.133.133H.133A.117.117,0,0,1,0,1.129v-1A.117.117,0,0,1,.133,0Z" transform="translate(2.789 7.869)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
